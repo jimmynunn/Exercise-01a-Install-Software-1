@@ -32,8 +32,7 @@ James Nunn
 166623
 
 ## My github username is:
-redatty1
-
+jimmynunn
 ## My replit username is:
 @jimmynunn
 
